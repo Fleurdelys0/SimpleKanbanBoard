@@ -1,5 +1,5 @@
 ﻿# SimpleKanbanBoard
-🇬🇧 English
+## English
 Simple Kanban Board
 A modern, web-based Kanban board application designed for efficient task management across different departments. This application provides user authentication, role-based permissions, and a dynamic drag-and-drop interface to manage tasks. All data is stored locally in the browser's local storage.
 
