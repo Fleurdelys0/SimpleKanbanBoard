@@ -3,7 +3,8 @@ A modern, web-based Kanban board application designed for efficient task managem
 
 ## 🇬🇧 English
 ✨ Features
-User Authentication: Secure registration and login system for users.
+
+**User Authentication:** Secure registration and login system for users.
 
 **Kanban Board:** A classic board with "To Do," "In Progress," and "Done" columns to visualize workflow.
 
@@ -49,6 +50,7 @@ For a better development experience, you can use a live server extension (like "
 
 ## 🇹🇷 Türkçe
 ✨ Özellikler
+
 **Kullanıcı Doğrulama:** Kullanıcılar için güvenli kayıt ve giriş sistemi.
 
 **Kanban Panosu:** İş akışını görselleştirmek için "Yapılacak", "Devam Ediyor" ve "Bitti" sütunlarını içeren klasik bir pano.
